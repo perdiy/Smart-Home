@@ -1,5 +1,6 @@
 # smarthomme
-
+# sc
+<img width="376" alt="Screenshot 2023-05-18 at 12 14 24 PM" src="https://github.com/perdiy/Smart-Home/assets/80159812/d2df6191-6f77-4dee-9a94-96c705344362">
 A new Flutter project.
 
 ## Getting Started
